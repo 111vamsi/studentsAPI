@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vamsy\\source\\repos\\studentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC0D48E-0FAC-4302-9D7E-C3C54BC07884}|studentsAPI\\studentsAPI.csproj|c:\\users\\vamsy\\source\\repos\\studentsapi\\studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC0D48E-0FAC-4302-9D7E-C3C54BC07884}|studentsAPI\\studentsAPI.csproj|solutionrelative:studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC0D48E-0FAC-4302-9D7E-C3C54BC07884}|studentsAPI\\studentsAPI.csproj|c:\\users\\vamsy\\source\\repos\\studentsapi\\studentsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC0D48E-0FAC-4302-9D7E-C3C54BC07884}|studentsAPI\\studentsAPI.csproj|solutionrelative:studentsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vamsy\\source\\repos\\studentsAPI\\studentsAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "studentsAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\vamsy\\source\\repos\\studentsAPI\\studentsAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "studentsAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:28:18.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vamsy\\source\\repos\\studentsAPI\\studentsAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "studentsAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\vamsy\\source\\repos\\studentsAPI\\studentsAPI\\Models\\Student.cs",
+              "RelativeToolTip": "studentsAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:27:15.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
